@@ -10,3 +10,4 @@ mandi pagi
 ngoding untuk mengasah banyak skill
 ^belajar java script
 ^belajar php
+^belajar css 3
